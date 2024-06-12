@@ -2,8 +2,8 @@
 
 ⭐️ Contents ⭐️
 Introduction
-⌨️ Accordion \n
-⌨️ Random Color Generator  
+- ⌨️ Accordion
+- ⌨️ Random Color Generator  
 ⌨️ Star Rating
 ⌨️ Image Slider
 ⌨️ Load More Button
