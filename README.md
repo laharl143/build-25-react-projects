@@ -2,7 +2,7 @@
 
 ⭐️ Contents ⭐️
 Introduction
-⌨️ Accordion
+⌨️ Accordion \n
 ⌨️ Random Color Generator  
 ⌨️ Star Rating
 ⌨️ Image Slider
