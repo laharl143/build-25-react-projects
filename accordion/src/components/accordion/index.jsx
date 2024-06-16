@@ -1,20 +1,18 @@
-//single selection
-
 import { useState } from "react";
 import data from "./data.js";
 import "./styles.css";
-
-//multiple selection
 
 export default function Accordion() {
   const [selected, setSelected] = useState(null);
   const [enableMultiSelection, setEnableMultiSelection] = useState(false);
   const [multiple, setMultiple] = useState([]);
 
+  //single selection
   function handleSingleSelection(getCurrentId) {
     setSelected(getCurrentId === selected ? null : getCurrentId);
   }
 
+  //multiple selection
   function handleMultiSelection(getCurrentId) {
     let copyMultiple = [...multiple];
     const findIndexOfCurrentId = copyMultiple.indexOf(getCurrentId);
@@ -29,6 +27,7 @@ export default function Accordion() {
   console.log(selected, multiple);
   return (
     <div className="wrapper">
+      <h2>Accordion Challenge</h2>
       <button
         onClick={() => setEnableMultiSelection(!enableMultiSelection)}
         className={enableMultiSelection ? "button-enabled" : "button-disabled"}

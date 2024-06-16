@@ -54,9 +54,10 @@
     background-color: red;
 }
 
-.footer {
+.footer, h2 {
     margin-top: 20px;
     font-size: 14px;
     color: gray;
     text-align: center;
   }
+
