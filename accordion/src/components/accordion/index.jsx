@@ -1,3 +1,10 @@
+/**
+ * Project: Accordion Challenge
+ * Developer: Ed Duenas
+ * Date Finished: 6/16/2024
+ */
+
+
 import { useState } from "react";
 import data from "./data.js";
 import "./styles.css";
