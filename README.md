@@ -30,7 +30,7 @@ Watch
 - [ ] ⌨️ Mern Stack Blog App
 
 Code, Implement & Uploaded to Github (dedicated branch is deleted)
-- [ ] ⌨️ Accordion
+- [x] ⌨️ Accordion
 - [ ] ⌨️ Random Color Generator
 - [ ] ⌨️ Star Rating
 - [ ] ⌨️ Image Slider
