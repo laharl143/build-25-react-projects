@@ -4,7 +4,7 @@
 
 Watch
 - [x] ⌨️ Accordion
-- [ ] ⌨️ Random Color Generator
+- [x] ⌨️ Random Color Generator
 - [ ] ⌨️ Star Rating
 - [ ] ⌨️ Image Slider
 - [ ] ⌨️ Load More Button
