@@ -31,7 +31,7 @@ Watch
 
 Code, Implement & Uploaded to Github (dedicated branch is deleted)
 - [x] ⌨️ Accordion [Completed: 6/16/2024]
-- [ ] ⌨️ Random Color Generator
+- [x] ⌨️ Random Color Generator [Completed: 6/19/2024]
 - [ ] ⌨️ Star Rating
 - [ ] ⌨️ Image Slider
 - [ ] ⌨️ Load More Button
