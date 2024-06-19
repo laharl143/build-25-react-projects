@@ -1,5 +1,5 @@
 /**
- * Project: Accordion Challenge
+ * Project: Accordion Component
  * Developer: Ed Duenas
  * Date Finished: 6/16/2024
  */
@@ -73,7 +73,6 @@ export default function Accordion() {
           <div>No data found!</div>
         )}
       </div>
-      <footer className="footer">Created by ED Duenas, 2024</footer>
     </div>
   );
 }
