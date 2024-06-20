@@ -5,7 +5,7 @@
 Watch
 - [x] ⌨️ Accordion
 - [x] ⌨️ Random Color Generator
-- [ ] ⌨️ Star Rating
+- [x] ⌨️ Star Rating
 - [ ] ⌨️ Image Slider
 - [ ] ⌨️ Load More Button
 - [ ] ⌨️ Tree View / Menu UI / Recursive Navigation Menu
@@ -32,7 +32,7 @@ Watch
 Code, Implement & Uploaded to Github (dedicated branch is deleted)
 - [x] ⌨️ Accordion [Completed: 6/16/2024]
 - [x] ⌨️ Random Color Generator [Completed: 6/19/2024]
-- [ ] ⌨️ Star Rating
+- [x] ⌨️ Star Rating [Completed: 6/20/2024]
 - [ ] ⌨️ Image Slider
 - [ ] ⌨️ Load More Button
 - [ ] ⌨️ Tree View / Menu UI / Recursive Navigation Menu

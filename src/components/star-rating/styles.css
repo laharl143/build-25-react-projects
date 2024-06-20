@@ -1,0 +1,13 @@
+.star-rating {
+    align-items: center;
+  }
+
+  .active {
+    color: yellow;
+    transition: color 0.2s;
+  }
+
+  .inactive {
+    color: black;
+    transition: color 0.2s;
+  }
